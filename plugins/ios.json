@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "top.tikka.igor"
+    }
+  },
+  "dependent_plugins": {}
+}
