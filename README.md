@@ -40,7 +40,7 @@ export class AppModule {}
 and replace:
 
 ```html
-<ion-tabs tabsPlacement="bottom">
+<ion-tabs>
   <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="home"></ion-tab>
   <ion-tab [root]="tab2Root" tabTitle="About" tabIcon="information-circle"></ion-tab>
   <ion-tab [root]="tab3Root" tabTitle="Contact" tabIcon="contacts"></ion-tab>
@@ -48,3 +48,13 @@ and replace:
 ```
 
 to:
+
+```html
+<super-tabs tabsPlacement="bottom">
+  <super-tab [root]="tab1Root" title="Home" icon="home"></super-tab>
+  <super-tab [root]="tab2Root" title="About" icon="information-circle"></super-tab>
+  <super-tab [root]="tab3Root" title="Contact" icon="contacts"></super-tab>
+</super-tabs>
+```
+
+7. Is ready! Default tabs are on the top. tabsPlacement="bottom" set tabs to bottom.
