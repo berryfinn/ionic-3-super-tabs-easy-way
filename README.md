@@ -58,3 +58,5 @@ to:
 ```
 
 7. Is ready! Default tabs are on the top. tabsPlacement="bottom" set tabs to bottom.
+
+[super-tabs home page on gitHub](https://github.com/zyra/ionic2-super-tabs)
