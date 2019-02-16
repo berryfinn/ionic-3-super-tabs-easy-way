@@ -1,6 +1,6 @@
-# Ionic super-tabs easy way
+# Ionic 3 super-tabs easy way
 
-Ionic small demo project how get to use swipeable super-tabs easily.
+Ionic 3 small demo project how get to use swipeable super-tabs easily.
 
 # Get start
 
@@ -35,3 +35,4 @@ import { SuperTabsModule } from 'ionic2-super-tabs';
 })
 export class AppModule {}
 ```
+
