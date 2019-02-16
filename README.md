@@ -37,6 +37,7 @@ export class AppModule {}
 ```
 
 6. Open file /src/app/pages/tabs/tabs.html 
+
 and replace:
 
 ```html
