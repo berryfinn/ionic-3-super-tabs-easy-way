@@ -36,3 +36,15 @@ import { SuperTabsModule } from 'ionic2-super-tabs';
 export class AppModule {}
 ```
 
+6. Open file /src/app/pages/tabs/tabs.html 
+and replace:
+
+```html
+<ion-tabs tabsPlacement="bottom">
+  <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="home"></ion-tab>
+  <ion-tab [root]="tab2Root" tabTitle="About" tabIcon="information-circle"></ion-tab>
+  <ion-tab [root]="tab3Root" tabTitle="Contact" tabIcon="contacts"></ion-tab>
+</ion-tabs>
+```
+
+to:
