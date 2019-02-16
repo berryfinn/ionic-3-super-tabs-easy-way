@@ -1,4 +1,7 @@
-# ionic-super-tabs-and-back-swipe
-Ionic small demo project
+# Ionic super-tabs easy way
 
-![screenshot of sample](https://github.com/berryfinn/ionic-super-tabs-and-back-swipe/blob/master/screenshots/swipe.gif)
+Ionic small demo project how get to use super-tabs easily.
+
+# Get start
+
+
