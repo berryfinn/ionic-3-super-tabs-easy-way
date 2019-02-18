@@ -2,6 +2,8 @@
 
 Ionic 3 small demo project how get to use swipeable super-tabs easily.
 
+[Watch Ionic 3 super-tabs simple way In YouTube ](https://www.youtube.com/edit?o=U&video_id=GSuzKtsNgD0)
+
 # Get start
 
 1. Open a new terminal window (Mac) or a command window (Windows), and navigate (cd) to the your-ionic-work directory
